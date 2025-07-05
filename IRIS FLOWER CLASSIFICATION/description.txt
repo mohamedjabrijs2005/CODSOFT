@@ -1,5 +1,0 @@
-Iris Flower Classification
-
-This project uses a Random Forest classifier to predict the species of iris flowers based on their sepal and petal measurements. 
-The dataset contains measurements for three species: setosa, versicolor, and virginica. 
-The code demonstrates data loading, exploration, visualization, preprocessing, model training, evaluation, and prediction.
