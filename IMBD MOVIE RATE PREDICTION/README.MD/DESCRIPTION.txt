@@ -1,0 +1,23 @@
+# Movie Rate Prediction - Project Description
+
+This project demonstrates a simple machine learning pipeline for predicting movie ratings based on synthetic data. The workflow includes data generation, preprocessing, model training, evaluation, and prediction for a new movie. The model uses a Random Forest Regressor and handles both categorical and numerical features using a pipeline with one-hot encoding and standard scaling.
+
+## Features
+- Synthetic dataset generation with genres, directors, actors, budget, and duration
+- Preprocessing pipeline for categorical and numerical features
+- Random Forest regression model
+- Model evaluation using Mean Squared Error and R2 Score
+- Example prediction for a new movie
+
+## Usage
+1. Run the Python script to generate the dataset, train the model, and see evaluation metrics.
+2. The script will also predict the rating for a sample new movie.
+
+## Requirements
+- Python 3.x
+- pandas
+- numpy
+- scikit-learn
+
+## Author
+Mohamed Jabri J S
