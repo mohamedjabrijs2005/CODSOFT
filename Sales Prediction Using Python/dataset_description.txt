@@ -1,8 +1,0 @@
-Dataset: advertising.csv
-
-- TV: Advertising budget spent on TV (in thousands of dollars)
-- Radio: Advertising budget spent on Radio (in thousands of dollars)
-- Newspaper: Advertising budget spent on Newspaper (in thousands of dollars)
-- Sales: Sales of the product (in thousands of units)
-
-Each row represents a different market with its respective advertising spend and resulting sales.
